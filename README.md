@@ -1,5 +1,4 @@
 # Rubber-Rubber Bot
-
 A Slack bot I made while learning how Slack bots work.
 
 I started with a few simple commands and kept adding random stuff to it.
